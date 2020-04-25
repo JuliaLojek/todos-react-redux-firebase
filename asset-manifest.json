@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JuliaLojek/todos-react-redux-firebase/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/JuliaLojek/todos-react-redux-firebase/static/js/main.95fa36d7.chunk.js",
+    "main.js.map": "/JuliaLojek/todos-react-redux-firebase/static/js/main.95fa36d7.chunk.js.map",
+    "runtime-main.js": "/JuliaLojek/todos-react-redux-firebase/static/js/runtime-main.a2f86358.js",
+    "runtime-main.js.map": "/JuliaLojek/todos-react-redux-firebase/static/js/runtime-main.a2f86358.js.map",
+    "static/js/2.1aad3dda.chunk.js": "/JuliaLojek/todos-react-redux-firebase/static/js/2.1aad3dda.chunk.js",
+    "static/js/2.1aad3dda.chunk.js.map": "/JuliaLojek/todos-react-redux-firebase/static/js/2.1aad3dda.chunk.js.map",
+    "index.html": "/JuliaLojek/todos-react-redux-firebase/index.html",
+    "precache-manifest.9035402e82ec4ccbb3c6dee5f8087cc9.js": "/JuliaLojek/todos-react-redux-firebase/precache-manifest.9035402e82ec4ccbb3c6dee5f8087cc9.js",
+    "service-worker.js": "/JuliaLojek/todos-react-redux-firebase/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/JuliaLojek/todos-react-redux-firebase/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1aad3dda.chunk.js.LICENSE.txt": "/JuliaLojek/todos-react-redux-firebase/static/js/2.1aad3dda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2f86358.js",
+    "static/js/2.1aad3dda.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.95fa36d7.chunk.js"
+  ]
+}
