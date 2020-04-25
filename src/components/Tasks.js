@@ -26,7 +26,7 @@ const Tasks = () => {
 
   useEffect(() => {
     getTasks();
-  }, []);
+  });
 
   return (
         <Container maxWidth="md">
